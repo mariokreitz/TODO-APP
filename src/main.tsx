@@ -10,8 +10,8 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
     <KindeProvider
       clientId="f100aa633124458188869b92282f0566"
       domain="https://simpletodoapp.kinde.com"
-      redirectUri="http://localhost:5173"
-      logoutUri="http://localhost:5173"
+      redirectUri="https://another-simple-todoapp.netlify.app"
+      logoutUri="https://another-simple-todoapp.netlify.app"
     >
       <TodosContextProvider>
         <App />
