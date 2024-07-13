@@ -1,4 +1,4 @@
-# TodoApp
+# TodoApp [![Netlify Status](https://api.netlify.com/api/v1/badges/e12376da-891a-44a2-b5ef-1530bfc79499/deploy-status)](https://app.netlify.com/sites/another-simple-todoapp/deploys)
 
 A simple Todo list application built with React and Tailwind CSS.
 
